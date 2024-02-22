@@ -29,7 +29,7 @@ for(let seat of seats){
         // background 
         
         const backgroundChange = seat;
-        seat.classList.add('bg-[#1DD100]' , 'text-white');
+        seat.classList.add('bg-[#1DD100]','text-white');
         backgroundChange.classList.add('bg-[#1DD100]');
 
         // count
